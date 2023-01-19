@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+}
+
+.div-nav{
+    display: flex;
+    height: 7vh;
+    margin-top: 0.7rem;
+}
+.div-cabecera{
+    width: 50vw;
+    display: flex;
+}
+.div-cabecera-2{
+    float: right;
+    width: 50vw;
+    display: flex;
+    float: right;
+    gap: 3rem;
+    justify-content: right;
+    margin-right: 2rem;
+}
+.todo-google{
+    height: 50vh;
+}
+.foto-google{
+    width: 350px;
+}
+#google{
+    margin-left: 1rem;
+}
+#tienda{
+    margin-left: 2rem;
+}
+
+.imagen-google{
+    display: flex;
+    justify-content: center;
+}
+.input-micro{
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+    margin-left: 20rem;
+}
+.botones{
+    display: flex;
+    justify-content: center;
+}
+.btngoogle{
+    width: 13em;
+    margin-top: 2rem;
+    margin-right: 1rem;   
+}
+.idiomas{
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+    margin-top: 1rem;
+}
+a{
+    margin-left: 0.8rem;
+}
+.españa{
+    display: flex;
+    justify-content: left;
+    margin-top: 8rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+.config{
+    display: flex;
+    justify-content: space-between; 
+}
+.publi{
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-left: 1rem;
+}
+.privacidad{
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-right: 1rem;
+}
